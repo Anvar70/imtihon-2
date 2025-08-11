@@ -1,0 +1,75 @@
+.text{
+    text-align: center;
+    background-color: rgb(220, 210, 255);
+    border: 4px solid rgb(255, 0, 0);
+    border-radius: 30px;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.text2{
+    text-align: center;
+    background-color:yellow;
+    color: green;
+}
+.images{
+    text-align: center;
+}
+.yellow{
+    background-color: yellow;
+}
+.input1{
+    width: 1500px;
+    height: 70px;
+}
+.button{
+    width: 400px;
+    height: 50px;
+    color: white;
+    background-color: rgb(67, 142, 255);
+    border: 2px solid rgb(67, 142, 255);
+    font-size: 35px;
+}
+table,
+tr,
+th,
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+.whitegreen{
+    background-color: green;
+    color: white;
+}
+.bluewhite{
+    background-color: blue;
+    color: white;
+}
+.br{
+    background-color: red;
+    color: white;
+    height: 35px;
+}
+.tt{
+    background-color: black;
+    color: white;
+}
+.whitegreen{
+    width: 500px;
+    height: 50px;
+}
+.tt{
+    width: 900px;
+}
+.h{
+    border-radius: 20px;
+}
+.green1{
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+}
